@@ -1,2 +1,2 @@
 # Getting-Started-with-Git-and-GitHub
-final assignmenet of this course
+Final Assignmenet of Coursera's IBM Getting started with Git and Github" course.
